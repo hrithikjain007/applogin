@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/hjain1/AndroidStudioProjects/HelloJNI/app/.cxx/Debug/4a186k14/x86",
+  "command": "/home/hjain1/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android23 --sysroot=/home/hjain1/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dhello_jni_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/hello-jni.dir/hello-jni.cpp.o -c /home/hjain1/AndroidStudioProjects/HelloJNI/app/src/main/cpp/hello-jni.cpp",
+  "file": "/home/hjain1/AndroidStudioProjects/HelloJNI/app/src/main/cpp/hello-jni.cpp"
+}
+]

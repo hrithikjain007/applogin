@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/home/hjain1/AndroidStudioProjects/HelloJNI/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/hjain1/Android/Sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/home/hjain1/AndroidStudioProjects/HelloJNI/app/.cxx/Debug/4a186k14/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/hjain1/Android/Sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/home/hjain1/AndroidStudioProjects/HelloJNI/app/.cxx/Debug/4a186k14/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "hello-jni::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "hello-jni",
+      "output": "/home/hjain1/AndroidStudioProjects/HelloJNI/app/build/intermediates/cxx/Debug/4a186k14/obj/x86/libhello-jni.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/home/hjain1/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/home/hjain1/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
